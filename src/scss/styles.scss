@@ -23,6 +23,12 @@
 .details .vertical-decoration {
   top: 0;
   left: 0;
+
+  &.right {
+    top: 5%;
+    left: 100%;
+    transform: translateX(-100%);
+  }
 }
 
 .hr-heading {
