@@ -12,9 +12,17 @@
   height: 600px;
 }
 
+.vertical-decoration {
+  width: 24px;
+}
+
 .header .vertical-decoration {
   top: 12%;
-  width: 24px;
+}
+
+.details .vertical-decoration {
+  top: 0;
+  left: 0;
 }
 
 .hr-heading {
