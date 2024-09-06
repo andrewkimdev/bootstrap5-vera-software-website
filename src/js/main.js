@@ -11,3 +11,6 @@ import './replace-text-in-header'
 
 // Script to handle scroll event
 import './scroll-event-handler';
+
+// Video handler
+import './video-modal';
