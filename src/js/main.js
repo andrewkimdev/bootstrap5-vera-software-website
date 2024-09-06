@@ -8,3 +8,6 @@ import 'bootstrap';
 
 // Script to replace text in header
 import './replace-text-in-header'
+
+// Script to handle scroll event
+import './scroll-event-handler';
