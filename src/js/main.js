@@ -4,7 +4,7 @@ import '../assets/fonts/fontawesome-free/scss/font-awesome.scss';
 import '../scss/styles.scss';
 
 // Import all of Bootstrap's JavaScript
-import * as bootstrap from 'bootstrap';
+import 'bootstrap';
 
-// Import 3rd party library
-import '../js/replaceme.min';
+// Script to replace text in header
+import './replace-text-in-header'
